@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+I’m James! I have been coding for about 3 years now, focusing on Front-End Web Technologies.  I love creative approaches to UI and UX design and strive to implement non-conventional approaches to front-end web design. I got into coding in 2022 and fell in love with Front-End development when I had to create a website for a local garage disposal company using a WordPress backend. It was a great way to apply the skills I had been learning while helping others succeed in their endeavors. I absolutely love React Three Fiber as it provides a streamlined solution to 3d rendering in the browser and as GPU processing power increases, I believe that applications will utilize that power to produce more engaging sites.  I am currently looking for a Front-End Web Developer role, ideally using React and or Three JS. I would especially like to work at a startup with a small team where I can make an impact quickly. If you hiring, Let’s grab a coffee sometime.  
+
+
 
 <!--
 **sqallFF/sqallFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
